@@ -28,6 +28,7 @@ A travel logging app that allows users to save locations, view real-time weather
    git clone https://github.com/yourusername/TravelJournal.git
 2. Open the project in Android Studio.
 3. Add your API keys for OpenWeather and Mapbox in strings.xml:
-<string name="openweather_api_key">YOUR_API_KEY</string>
-<string name="mapbox_access_token">YOUR_ACCESS_TOKEN</string>
-4. Build and run the app on an Android emulator or device.
+   ```bash
+   <string name="openweather_api_key">YOUR_API_KEY</string>
+   <string name="mapbox_access_token">YOUR_ACCESS_TOKEN</string>
+5. Build and run the app on an Android emulator or device.
